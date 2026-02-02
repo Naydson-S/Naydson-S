@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨🏻‍💻 Naydson Silva
 
-<!--
-**Naydson-S/Naydson-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheiro de Software`**
 
-Here are some ideas to get you started:
+Me chamo Naydson Teixeira Silva, tenho 18 anos e sou natural de Pernambuco. Já concluí o ensino médio. Atualmente, estou cursando Engenharia de Softaware em paralelo com um curso de Java Profissional (Nélio Alves).Esse é meu instagram, com o perfil chamado "[naydson_s](https://www.instagram.com/naydson_s/)".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" 
+/>
+<br/>
+
+<br/>
